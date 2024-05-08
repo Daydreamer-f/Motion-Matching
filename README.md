@@ -16,6 +16,8 @@ You can modify the motion material in [character_controller.py] at line 15, wher
 
 ## 3. Results
 
+You can use the `Arrow keys` or `WASD` on your keyboard to control the direction of the character's movement.
+
 <p align=center>
 <img src='images/result.gif' width='60%'>
 </p>

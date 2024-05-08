@@ -17,5 +17,5 @@ You can modify the motion material in [character_controller.py] at line 15, wher
 ## 3. Results
 
 <p align=center>
-<img src='images/results.gif' width='60%'>
+<img src='images/result.gif' width='60%'>
 </p>
